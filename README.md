@@ -16,14 +16,11 @@ Tratamento básico de erros em requisições
 
 ## Informações Gerais
 
-- Nome:
+- Nome:Victhor gabriel freire de Oliveira
 - Matricula:
 
 ## Prints do trabalho
 
-<<  COLOQUE A IMAGEM - TELA DE CARDS DE PRODUTOS - AQUI >>
+![Screenshot](public/img/screen.png)
 
-<<  COLOQUE A IMAGEM - TELA DE DETALHE DO PRODUTO - AQUI >>
-
-<<  COLOQUE A IMAGEM - TELA DO CONSOLE - AQUI >>
 
